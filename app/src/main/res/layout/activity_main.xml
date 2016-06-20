@@ -68,7 +68,7 @@
             android:id="@+id/startanimation"
             android:layout_gravity="center_horizontal"
             android:layout_centerHorizontal="true"
-            android:background="@drawable/buttonshape2"
+            android:background="@drawable/buttonshape"
             android:layout_marginBottom="10dp"/>
 
         <TextView
